@@ -1,0 +1,31 @@
+body{
+  font-family: Arial;
+}
+
+.h{
+  text-align: center;
+}
+
+.code-block{
+  color: red;
+  background-color: #e6e6e6;
+  padding: 20px;
+}
+
+.code{
+  color: red;
+  background-color: #e6e6e6;
+}
+
+.text{
+  color: black;
+}
+
+.footer{
+  font-size: 16px;
+}
+
+.tags{
+  color: #44d4ff;
+  background-color: #e6e6e6;
+}
